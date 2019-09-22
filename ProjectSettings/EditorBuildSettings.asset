@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/MainMenu.unity
+    guid: 6b1d271d8b8e5774ba1a40157114ebb8
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 5.unity
+    guid: 8d5008448bdbbb54fa0d8333ee23192f
+  - enabled: 1
+    path: Assets/Levels/LevelSelect.unity
+    guid: 6f527bfc0c593c040bb51b0ed722e660
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 2.unity
+    guid: 6ad2aeece8477ee4ab8a2f29834a0395
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 1.unity
+    guid: e0fa840ce7c61434381bc460f980bdd2
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 3.unity
+    guid: b2ba8c4810854294fb718d74bd90e168
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 4.unity
+    guid: a7eeb40428945174096226d8eecf1be0
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 6.unity
+    guid: b36d714d77149bb49a7c2ee8883e730f
+  - enabled: 1
+    path: Assets/Levels/Level 7.unity
+    guid: 5e8efd5c382b53c4e9d52ef689fbc3a5
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 8.unity
+    guid: 356dc7917ffc69c43937c0eda8613729
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 10.unity
+    guid: 44135c0df8a1d494b866a17c1e2a3eaa
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 9.unity
+    guid: 59b28e9f1303c0d42abbdc7861c878ae
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 11.unity
+    guid: 1dc77fa2314368c49b97c8f1c8372d46
+  - enabled: 1
+    path: Assets/Levels/World 1/Level 12.unity
+    guid: 7155702e6090dda44b2c00007fcf79c5
+  - enabled: 1
+    path: Assets/Levels/Bonus levels/Level 13.unity
+    guid: d513d85d35007914d9abc1419350ade5
+  - enabled: 1
+    path: Assets/Levels/Bonus levels/Level 14.unity
+    guid: 29c0308da7cf5f04e914790cb7d837de
+  - enabled: 1
+    path: Assets/Levels/Tutorials/Level 1 T.unity
+    guid: c1d4b19acb358054f97f489417b88921
+  - enabled: 1
+    path: Assets/Levels/Tutorials/Level 2 T.unity
+    guid: e923c4d23a592414cb44c1fd7ea29387
+  - enabled: 1
+    path: Assets/Levels/Tutorials/Level 8 T.unity
+    guid: 665b6ba6c6abdc44abd060e7c158c003
+  - enabled: 1
+    path: Assets/Levels/Bonus levels/Level 15.unity
+    guid: a34043d3e4fcd7f46885944b1fc93c41
+  - enabled: 1
+    path: Assets/Levels/World 2/Level 2-5.unity
+    guid: 5c6328b2b11d61d4ab867ce6dd9e9a25
+  - enabled: 1
+    path: Assets/Levels/World 2/Level 2-8.unity
+    guid: 76e56278b2659c847a8cd32b022186f3
+  - enabled: 1
+    path: Assets/Levels/World 2/Level 2-9.unity
+    guid: 2c0accfff1b6a0c449a0df7c47cd3fa2
+  - enabled: 1
+    path: Assets/Levels/World 2/Level 2-10.unity
+    guid: 77cc9ee8f1842b4439ae02b3cfc071f7
+  - enabled: 1
+    path: Assets/Levels/World 2/Level 2-1.unity
+    guid: 338d26e85cbf61544a34e11031cf8a47
+  - enabled: 1
+    path: Assets/Levels/World 2/Level 2-2.unity
+    guid: 2d4bc0ee6e7c1234da56f8b756791c38
+  - enabled: 1
+    path: Assets/Levels/World 2/level 2-3.unity
+    guid: 004d238f288f86d4385450f6a661d0e6
+  - enabled: 1
+    path: Assets/Levels/World 2/Level 2-4.unity
+    guid: bb32efefdf1ee06438d69804d68cefd1
+  - enabled: 1
+    path: Assets/Levels/World 2/Level 2-6.unity
+    guid: e795cd97826df7e4d9b224ac7f1e849b
+  - enabled: 1
+    path: Assets/Levels/World 2/Level 2-7.unity
+    guid: 6f94e565e7010f14e8f205200b965a4e
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-1.unity
+    guid: bf79fc673c578724e85d1ea711114190
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-1-1.unity
+    guid: e0b346c2f7c12d3439d2e040be559489
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-1-2.unity
+    guid: 090425b05697b4e4ea27958e9a9ab5bb
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-1-3.unity
+    guid: ffb9156dafeefa74ba458efde12978e3
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-1-4.unity
+    guid: 52340087501f0d348a8d341b339bed3c
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-2.unity
+    guid: a008d6ae2867cb446b9716e57d82e00d
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-2-1.unity
+    guid: ca8f2190025703145aaeb7c4a25bc5c3
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-2-2.unity
+    guid: e49332dd526006a478771b5f51e35c03
+  - enabled: 1
+    path: Assets/Mystery app/A choice....unity
+    guid: 97765a6ad502c7a4a9b5bc2d67ce235f
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-2-3.unity
+    guid: d6857e60f45cf7347aedeb5b8cf4e08b
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-3.unity
+    guid: afbba4e6afb3edb45b5f877f3ec59277
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-3-1.unity
+    guid: 3349719b122fbd548b0f27386d0defbe
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-4.unity
+    guid: f7d4c23fe43558c43ba757b60161c6f4
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-4-1.unity
+    guid: ac42fbb0fbec391468c8ce73f7703ca0
+  - enabled: 1
+    path: Assets/Mystery app/yellow/Y-4-2.unity
+    guid: 9a408acc5bd1a4e4a9a3cea879f82b5c
+  - enabled: 1
+    path: Assets/Level1.unity
+    guid: d3449b2b118baed4a8bb123acc575105
